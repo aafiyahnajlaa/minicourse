@@ -1,0 +1,28 @@
+.main {
+    display: flex;
+    gap: 32px;
+}
+.footer {
+    text-align: center;
+}
+
+.main-header {
+    text-align: center;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+.button{
+  border: none;
+  padding: 8px
+}  
+.bg-black {
+    
+}
+
+#result-bmi {
+    font-size: 110-large;
+    font-family: math;
+}
